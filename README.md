@@ -12,7 +12,7 @@ Atualmente buscando oportunidades de **estágio em Dados / IA / Análise**.
 - 🔍 Interesse em: análise de dados, machine learning e automação
 - 🐍 Foco principal em **Python** para dados e back-end
 - 🤝 Aberto a colaborações e oportunidades na área de dados
-- 📍 Campo Grande, MS — Brasil
+- 📍 Sao Paulo, SP — Brasil
 
 ---
 
@@ -54,9 +54,7 @@ Atualmente buscando oportunidades de **estágio em Dados / IA / Análise**.
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=GuiAlmeida03&show_icons=true&hide_border=true&locale=pt-br)
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=GuiAlmeida03&layout=compact&hide_border=true&locale=pt-br)
+[![GitHub Streak](https://streak-stats.demolab.com?user=GuiAlmeida03&locale=pt_BR&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
