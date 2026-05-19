@@ -54,9 +54,9 @@ Atualmente buscando oportunidades de **estágio em Dados / IA / Análise**.
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GuiAlmeida03&show_icons=true&theme=default&hide_border=true&locale=pt-br&cache_seconds=1800)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=GuiAlmeida03&show_icons=true&hide_border=true&locale=pt-br)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuiAlmeida03&layout=compact&theme=default&hide_border=true&locale=pt-br&cache_seconds=1800)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=GuiAlmeida03&layout=compact&hide_border=true&locale=pt-br)
 
 </div>
 
