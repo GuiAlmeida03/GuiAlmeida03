@@ -12,7 +12,7 @@ Atualmente buscando oportunidades de **estágio em Dados / IA / Análise**.
 - 🔍 Interesse em: análise de dados, machine learning e automação
 - 🐍 Foco principal em **Python** para dados e back-end
 - 🤝 Aberto a colaborações e oportunidades na área de dados
-- 📍 Sao Paulo / SP — Brasil
+- 📍 Campo Grande, MS — Brasil
 
 ---
 
@@ -54,9 +54,9 @@ Atualmente buscando oportunidades de **estágio em Dados / IA / Análise**.
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GuiAlmeida03&show_icons=true&theme=default&hide_border=true&locale=pt-br)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GuiAlmeida03&show_icons=true&theme=default&hide_border=true&locale=pt-br&cache_seconds=1800)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuiAlmeida03&layout=compact&theme=default&hide_border=true&locale=pt-br)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuiAlmeida03&layout=compact&theme=default&hide_border=true&locale=pt-br&cache_seconds=1800)
 
 </div>
 
@@ -64,7 +64,7 @@ Atualmente buscando oportunidades de **estágio em Dados / IA / Análise**.
 
 ## 📬 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/guilherme-almeida-a7a845324)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-almeida-a7a845324)
 [![E-mail](https://img.shields.io/badge/E--mail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:guibson0309@gmail.com)
 
 ---
